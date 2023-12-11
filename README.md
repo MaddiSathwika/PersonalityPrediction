@@ -23,6 +23,8 @@ Training:
 
 Train the model on a labeled dataset with personality trait annotations.
 Fine-tune BERT's weights during training.
+
+
 LSTM+GRU for Personality Prediction:
 Overview:
 LSTM and GRU are types of recurrent neural networks (RNNs) designed to capture sequential dependencies in data.
